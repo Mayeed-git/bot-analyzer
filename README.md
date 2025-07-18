@@ -36,6 +36,7 @@ javac src/BotDetectionAnalyzer.java
 
 # Run analysis
 java -cp src BotDetectionAnalyzer sample-data/test_access.log
+```
 
 ## 📊 Key Features
 
